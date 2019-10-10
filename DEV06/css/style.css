@@ -1,0 +1,8 @@
+body{
+  background-color: red;
+}
+#content{
+  padding-top: 75px;
+  width: 1000px;
+  margin: 50px;
+  background-color: blue;
